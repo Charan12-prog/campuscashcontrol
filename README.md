@@ -19,7 +19,8 @@ This project provides insights into budget allocation, revenue distribution, and
 ### Department-wise Revenue Overview (2023–2025)  
 ![Dashboard Screenshot](dashboard_overview.png)  
 
-*Figure: Tableau dashboard showing monthly, yearly, and departmental revenue insights.*  
+*Figure: Tableau dashboard showing monthly, yearly, and departmental revenue ![Dashboard](https://github.com/user-attachments/assets/e927cd02-06a8-433b-a8b6-e1366e3ce004)
+insights.*  
 
 ## Outcome  
 This dashboard helped streamline financial analysis by:  
